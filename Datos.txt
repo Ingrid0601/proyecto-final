@@ -1,0 +1,4 @@
+{"Nombre":"Jose Antonio Rivera Vazquez","Matricula":"186010004","Correo":"joseantonio15600@gmail.com","Promedio":"99"}
+{"Nombre":"Ingrid Sarahi Reyes De jesus ","Matricula":"186010068","Correo":"reyes.dejesus.i.sarahi@gmail.com","Promedio":"80"}
+{"Nombre":"ana patricia barba escamilla","Matricula":"1860123","Correo":"paty.1998@gmail.com","Promedio":"90"}
+{"Nombre":"raul daniel ","Matricula":"186010052","Correo":"raulchp@gmail.com","Promedio":"80"}
